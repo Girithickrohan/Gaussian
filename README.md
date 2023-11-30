@@ -46,7 +46,7 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination]()
+![gaussian elimination](https://raw.githubusercontent.com/Girithickrohan/Gaussian/main/Screenshot%202023-11-30%20111018.png)
 
 
 ## Result:
